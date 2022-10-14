@@ -44,6 +44,6 @@ while total > 28:
         p_print(player_2, k, counter_2, total)
 
 if flag:
-    print(f"Выиграл {player_1}, все {counter_2} конфет оппонента  достаются ему.")
+    print(f'Выиграл {player_1}, все {counter_2} конфет оппонента  достаются ему.')
 else:
-    print(f"Выиграл {player_2}, все {counter_1} конфет оппонента  достаются ему.")
+    print(f'Выиграл {player_2}, все {counter_1} конфет оппонента  достаются ему.')
